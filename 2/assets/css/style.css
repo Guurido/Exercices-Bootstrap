@@ -1,0 +1,60 @@
+.bg-image {
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: -170px;
+}
+
+
+.nav-rs {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  align-items: center;
+}
+
+.img{
+  margin-top: -90px;
+}
+
+.nav-rs a {
+  text-decoration: none;
+}
+
+.lisere, .contenu{
+  display: inline-block;
+  vertical-align: top;
+}
+
+.lisere{
+    width: 5px;
+    margin-right: 4%;
+    height: 100px;
+    background-color: #d4cfcf;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.contenu{
+    width: 75%;
+}
+
+.lisere2, .contenu2{
+  display: inline-block;
+  vertical-align: top;
+}
+
+.lisere2{
+    width: 5px;
+    margin-left: 10px;
+    height: 100px;
+    background-color: #d4cfcf;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.contenu2{
+    width: 75%;
+    text-align: end;
+    margin-left: 115px;
+}
